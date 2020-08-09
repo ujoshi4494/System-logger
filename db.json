@@ -2,51 +2,18 @@
   "logs": [
     {
       "id": 1,
-      "message": "It log 1",
-      "attention": true,
-      "date": "03-08-2020",
-      "tech": "sam smith"
-    },
-    {
-      "id": 2,
-      "message": "It log 2",
+      "message": "first log sda",
       "attention": false,
-      "date": "04-08-2020",
-      "tech": "umang smith"
+      "tech": "Umang Joshi",
+      "date": "2020-08-09T12:56:53.422Z"
     },
     {
-      "id": 3,
-      "message": "It log 4",
+      "message": "check",
       "attention": true,
-      "date": "05-08-2020",
-      "tech": "chandan smith"
+      "tech": "umangjoshi",
+      "date": "2020-08-09T17:10:25.400Z",
+      "id": 3
     }
   ],
-  "techs": [
-    {
-      "id": 2,
-      "firstName": "umang",
-      "lastName": "smith"
-    },
-    {
-      "id": 3,
-      "firstName": "sam",
-      "lastName": "joshi"
-    },
-    {
-      "firstName": "nikhil",
-      "lastName": "smith",
-      "id": 4
-    },
-    {
-      "firstName": "nikhil mehta",
-      "lastName": "smith",
-      "id": 5
-    },
-    {
-      "firstName": "jaydeep",
-      "lastName": "darji",
-      "id": 6
-    }
-  ]
+  "techs": []
 }
